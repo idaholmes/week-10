@@ -1,0 +1,9 @@
+{
+    "name": "week10",
+    "version": "1.0.0",
+    "description": "week 10 project",
+    "dependencies": {
+        "bootstrap": "^5.3.3",
+        "jquery": "^3.7.1"
+    }
+}
